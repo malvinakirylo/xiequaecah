@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://agojagooy.pccgo.com/sitemap.xml
